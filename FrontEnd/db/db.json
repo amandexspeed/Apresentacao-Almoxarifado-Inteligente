@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Produto1 ",
+      "price": "129",
+      "estoque": "123",
+      "estoqueMin": "10",
+      "id": "1",
+      "status": true
+    },
+    {
+      "name": "3123",
+      "price": "12313",
+      "estoque": "123",
+      "estoqueMin": "123131",
+      "id": "2",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Produto 3",
+      "price": 20.49,
+      "estoque": 120,
+      "estoqueMin": 25,
+      "status": false
+    },
+    {
+      "name": "Produto 4",
+      "price": "13",
+      "estoque": "10",
+      "estoqueMin": "1",
+      "id": "4",
+      "status": false
+    },
+    {
+      "id": "5",
+      "name": "Produto 5",
+      "price": 25.99,
+      "estoque": 90,
+      "estoqueMin": 30,
+      "status": false
+    }
+  ]
+}
