@@ -33,8 +33,8 @@ namespace RaspagemMagMer.Operations
 
             string smtpserver = "smtp-mail.outlook.com";
             int porta = 587;
-            string remetente = "rafaelMecenasRobo@outlook.com";
-            string senha = "teste123@";
+            string remetente = "amandextec@hotmail.com";
+            string senha = "testeRobo";
 
 
             using (SmtpClient client = new SmtpClient(smtpserver, porta))
@@ -73,8 +73,8 @@ namespace RaspagemMagMer.Operations
                            +
                            $"{responseBench}\n" +
                            "\n" +
-                           "Robo: 1806\n" +
-                           "Usuario: rafaelMecenas"
+                           "Robo: 0005\n" +
+                           "Usuario: amandaMelo"
 
                 };
 
